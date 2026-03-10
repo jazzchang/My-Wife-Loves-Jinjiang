@@ -1,8 +1,17 @@
 # My Wife Loves Jinjiang 📖
+<img width="400" alt="资源 18" src="https://github.com/user-attachments/assets/71588c11-3c8e-4883-a8c1-ce11f0978e53" />
+
 
 > 专为老婆量身打造的极简主义「晋江文学城」单本小说连载下载器 (macOS)。
 > 告别繁琐的网页操作与粗糙的下载工具，用浪漫专属的高颜值设计语言重构阅读、收集体验。
-> 注意：只能下载免费书籍，VIP书籍不能下载。
+> 
+<aside>
+  
+⚠️
+  
+**注意：只能下载免费书籍，VIP书籍不能下载。**
+
+</aside>
 
 ## 📦 如何使用
 
